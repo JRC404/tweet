@@ -1,0 +1,30 @@
+{
+  "name": "tweet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRC404/tweet.git"
+  },
+  "keywords": [
+    "tweet",
+    "twitter",
+    "jest",
+    "js",
+    "node"
+  ],
+  "author": "Jacob Reilly-Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRC404/tweet/issues"
+  },
+  "homepage": "https://github.com/JRC404/tweet#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
